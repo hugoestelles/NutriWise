@@ -1,11 +1,11 @@
 ![Logo](fotos/logo.png)
 
-#Introduccion
+# Introduccion
 
 NutriWise es un proyecto de aplicación de dietas donde aplicamos todo lo aprendido durante el primer curso (C#, SQL, HTML, CSS, AWS y mas).
 Fue desarrollado utilizando la metodologia SCRUM, hicimos un sprint de 10 dias para intentar desarrollar el producto minimo viable y puedo decir que conseguimos lo que queriamos.
 
-#Funcionamiento
+# Funcionamiento
 
 Para entrar a la aplicacion es necesario estar registrado o registrarse, una vez entramos, permite obtener una dieta en base a los objetivos, intolerancias y nivel de actividad fisica del usuario.
 
@@ -25,4 +25,4 @@ En el apartado 'Videos' podemos ver videos de recetas interesantes que al hacer 
 
 Por ultimo, en el apartado 'Ayuda' encontramos la informacion de contacto necesaria para contactar con el equipo de atención al cliente.
 
-#Video demo [video](https://www.youtube.com/watch?v=yssuI-YBxUQ&ab_channel=HugoEstell%C3%A9s)
+# [Video demo](https://www.youtube.com/watch?v=yssuI-YBxUQ&ab_channel=HugoEstell%C3%A9s)
