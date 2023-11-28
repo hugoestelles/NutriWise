@@ -12,7 +12,7 @@ After entering all the user's data, the application provides a 'personalized' di
 
 ![app](fotos/app.png)
 
-Additionally, it allows us to send the diet to the user via email. We can view and edit user data in the 'Perfil' section, rate the application in the 'Ratings' section, make donations to the development team in the 'Donativos' section.
+Additionally, it allows us to send the diet to the user via email. We can view and edit user data in the 'Perfil' section, rate the application in the 'Donativos' section, make donations to the development team in the 'Donativos' section.
 
 In the 'Lista de la compra' section, there is a shopping list with all the necessary ingredients to carry out the diet, as we can see in the following image:
 
