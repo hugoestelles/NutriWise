@@ -1,4 +1,6 @@
-# NutriWise ![Logo](fotos/logo.png)
+![Logo](fotos/logo.png)
+
+# NutriWise 
 
 Hola, bienvenid@ al proyecto NutriWise, por favor, elige el idioma en el que te gustaría ver el proyecto:
 
