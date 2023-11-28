@@ -24,6 +24,6 @@ In the 'Videos' section, we can watch interesting recipe videos that, when click
 
 Finally, in the 'Ayuda' section, we find the necessary contact information to get in touch with the customer support team.
 
-# [Demo Video](https://www.youtube.com/watch?v=yssuI-YBxUQ&ab_channel=HugoEstell%C3%A9s)
+# [Demo Video on Youtube](https://www.youtube.com/watch?v=yssuI-YBxUQ&ab_channel=HugoEstell%C3%A9s)
 
-# [Code](https://github.com/hugoestelles/EquipoVerde)
+# [Code on GitHub](https://github.com/hugoestelles/EquipoVerde)
